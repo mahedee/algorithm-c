@@ -1,2 +1,2 @@
-# algorithm-c
+# Algorithm using c
 Algorithm using C
